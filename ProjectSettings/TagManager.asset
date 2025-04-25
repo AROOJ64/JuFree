@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Player1
+  - Player2
+  - Destroy
+  - Cage
+  - Coin
+  - Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Enemy
+  - Mechanices
+  - Player
+  - distroy
+  - key
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 460497703
+    locked: 0
+  - name: Background2
+    uniqueID: 2901975007
+    locked: 0
+  - name: Bricks
+    uniqueID: 2235261967
+    locked: 0
+  - name: Enemy
+    uniqueID: 3923248693
+    locked: 0
+  - name: Mechanics
+    uniqueID: 1782353689
+    locked: 0
+  - name: Key
+    uniqueID: 1808840691
+    locked: 0
+  - name: Player
+    uniqueID: 475849981
+    locked: 0
+  - name: Cage
+    uniqueID: 63252859
+    locked: 0
+  - name: All
+    uniqueID: 3395201209
+    locked: 0

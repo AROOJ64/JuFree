@@ -1,0 +1,822 @@
+fileFormatVersion: 2
+guid: c3e93817ae0385246a6eab0b51ad6af5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: justice idle sheet_0
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 7140
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9e652f18d26154c8d48c9645e6381b
+      internalID: 217441142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 7140
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c3a0a5246eb3543bb4f42fcd598299
+      internalID: 598115499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_2
+      rect:
+        serializedVersion: 2
+        x: 4588
+        y: 7140
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12c954f6954b2845abca50be2ef7308
+      internalID: -1871217282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_3
+      rect:
+        serializedVersion: 2
+        x: 6508
+        y: 7140
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d1a42f4a57dd74bbe8700bf693c676
+      internalID: -1513328212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_4
+      rect:
+        serializedVersion: 2
+        x: 8428
+        y: 7140
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd4229f61cf3ed4c8329e99fca0b188
+      internalID: 254117690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_5
+      rect:
+        serializedVersion: 2
+        x: 10348
+        y: 7140
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1700d1f1f9b21241b06757e9fc6ed98
+      internalID: -1447231481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_6
+      rect:
+        serializedVersion: 2
+        x: 12268
+        y: 7140
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f778efcb7d0273a46ad533a372122d68
+      internalID: -1844094227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_7
+      rect:
+        serializedVersion: 2
+        x: 14188
+        y: 7140
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5eeec67367ac4d4c91ffcaaee73d6d0
+      internalID: -1071489704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_8
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 6060
+        width: 424
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cdc024f0c2d0c4aa876fde48d9d76a
+      internalID: -1128373858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 6060
+        width: 424
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39ceb7521696e2409acff932ac025b8
+      internalID: -670095684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_10
+      rect:
+        serializedVersion: 2
+        x: 4588
+        y: 6060
+        width: 432
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd52d94f7fd89ff459cb26d77761e619
+      internalID: 46111930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_11
+      rect:
+        serializedVersion: 2
+        x: 6508
+        y: 6060
+        width: 432
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cb279be597b934bbe8ba6786a1ba9d
+      internalID: -1312528471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_12
+      rect:
+        serializedVersion: 2
+        x: 8428
+        y: 6060
+        width: 424
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d40a8fdec6c7e14db56a8d50912a5a3
+      internalID: -657964903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_13
+      rect:
+        serializedVersion: 2
+        x: 10356
+        y: 6060
+        width: 416
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a992d0b69aa85a458492b1c3c4bff91
+      internalID: 949749092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_14
+      rect:
+        serializedVersion: 2
+        x: 12276
+        y: 6060
+        width: 416
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0717242ed35fe974c90f52a9e6e7d860
+      internalID: -1692519073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_15
+      rect:
+        serializedVersion: 2
+        x: 14196
+        y: 6060
+        width: 416
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92715e416621a334296f68b7b43a0f43
+      internalID: -2046051766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_16
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 4980
+        width: 416
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cbbc10b5becea44a2d36544a9f7dc7
+      internalID: -1420578256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 4980
+        width: 416
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf945d9f601c06c4ca19728ebf466221
+      internalID: -1537711794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 4980
+        width: 416
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42684aa877acecb4686abd1f99bf5436
+      internalID: 929534548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_19
+      rect:
+        serializedVersion: 2
+        x: 6516
+        y: 4980
+        width: 416
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306e3227cf296c94fae4159d5571dca5
+      internalID: -701398875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_20
+      rect:
+        serializedVersion: 2
+        x: 8428
+        y: 4980
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e3f9873f9273743add0d1c994ad555
+      internalID: 556917974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_21
+      rect:
+        serializedVersion: 2
+        x: 10348
+        y: 4980
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d8faea5aa0547429e3af4b4ed7e2e8
+      internalID: -1662575947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_22
+      rect:
+        serializedVersion: 2
+        x: 12268
+        y: 4980
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c457ab6dcc8593148a0fea0c32224eef
+      internalID: 1786221115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_23
+      rect:
+        serializedVersion: 2
+        x: 14188
+        y: 4980
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd47f6200cc2ec4481367f861c83115
+      internalID: -1382203877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_24
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 3900
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb8b556b9b849645a0493c3b4a4c484
+      internalID: -1161757065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 3900
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5a1656b73a35e4788d59b9910761b0
+      internalID: 1542506128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_26
+      rect:
+        serializedVersion: 2
+        x: 4588
+        y: 3900
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81c4723029c39f4c9236a42969efc6f
+      internalID: 597000249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_27
+      rect:
+        serializedVersion: 2
+        x: 6508
+        y: 3900
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36edc8588b3194747bd6c5b55c24d27e
+      internalID: 43701489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_28
+      rect:
+        serializedVersion: 2
+        x: 8428
+        y: 3900
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285941233f2224a4e886db7944c5f043
+      internalID: -1138627749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_29
+      rect:
+        serializedVersion: 2
+        x: 10348
+        y: 3900
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613f060fc826f134caea4785965c9e56
+      internalID: -429780121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice idle sheet_30
+      rect:
+        serializedVersion: 2
+        x: 12268
+        y: 3900
+        width: 424
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acf127213fcfeb43bd719c6343ab934
+      internalID: -902349398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      justice idle sheet_0: 217441142
+      justice idle sheet_1: 598115499
+      justice idle sheet_10: 46111930
+      justice idle sheet_11: -1312528471
+      justice idle sheet_12: -657964903
+      justice idle sheet_13: 949749092
+      justice idle sheet_14: -1692519073
+      justice idle sheet_15: -2046051766
+      justice idle sheet_16: -1420578256
+      justice idle sheet_17: -1537711794
+      justice idle sheet_18: 929534548
+      justice idle sheet_19: -701398875
+      justice idle sheet_2: -1871217282
+      justice idle sheet_20: 556917974
+      justice idle sheet_21: -1662575947
+      justice idle sheet_22: 1786221115
+      justice idle sheet_23: -1382203877
+      justice idle sheet_24: -1161757065
+      justice idle sheet_25: 1542506128
+      justice idle sheet_26: 597000249
+      justice idle sheet_27: 43701489
+      justice idle sheet_28: -1138627749
+      justice idle sheet_29: -429780121
+      justice idle sheet_3: -1513328212
+      justice idle sheet_30: -902349398
+      justice idle sheet_4: 254117690
+      justice idle sheet_5: -1447231481
+      justice idle sheet_6: -1844094227
+      justice idle sheet_7: -1071489704
+      justice idle sheet_8: -1128373858
+      justice idle sheet_9: -670095684
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

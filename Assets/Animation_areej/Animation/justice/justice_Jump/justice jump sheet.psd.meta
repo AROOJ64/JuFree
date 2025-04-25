@@ -1,0 +1,1042 @@
+fileFormatVersion: 2
+guid: 8237040976b8ce14db9a5ddd0ae2bc2d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: justice jump sheet_0
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 7124
+        width: 464
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c790da50ae2fa47819b078dc3a5c5b
+      internalID: 1905454610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 7124
+        width: 464
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58289038fe4e7fa43a5be0fd751d790e
+      internalID: -2036764634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_2
+      rect:
+        serializedVersion: 2
+        x: 4612
+        y: 7125
+        width: 480
+        height: 919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27da9fcc88e1a024a905579c5f013292
+      internalID: 1709569589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_3
+      rect:
+        serializedVersion: 2
+        x: 6532
+        y: 7125
+        width: 496
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9341f4ab4f886b4f952d5cb7deb6216
+      internalID: -1829031255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_4
+      rect:
+        serializedVersion: 2
+        x: 8452
+        y: 7125
+        width: 512
+        height: 895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7afe195a8f30c540a90af5a40c2c47e
+      internalID: -1443168059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_5
+      rect:
+        serializedVersion: 2
+        x: 10372
+        y: 7125
+        width: 528
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad77696a3e548c4a86f7cdb3b01a85f
+      internalID: 508109956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_6
+      rect:
+        serializedVersion: 2
+        x: 12284
+        y: 7125
+        width: 550
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f666dee9b72c01a43adee08f5b31f217
+      internalID: 2038566698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_7
+      rect:
+        serializedVersion: 2
+        x: 14196
+        y: 7125
+        width: 560
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3762fc93e191cbb49abcec6a9e82e15f
+      internalID: 1600209413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_8
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 6045
+        width: 568
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae36d3131e388e4da15c9b24730516c
+      internalID: -1613481500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 6045
+        width: 560
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c728807f328c147be1bd66c045939d
+      internalID: 2102892095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_10
+      rect:
+        serializedVersion: 2
+        x: 4580
+        y: 6045
+        width: 536
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05413dcf285e9e4498036f6edc32ba12
+      internalID: 212849866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_11
+      rect:
+        serializedVersion: 2
+        x: 6524
+        y: 6045
+        width: 480
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af63ac1ea2e77aa4783053850a32fa34
+      internalID: 780269843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_12
+      rect:
+        serializedVersion: 2
+        x: 8460
+        y: 6052
+        width: 464
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3509d895babd69f479b3f87da8df4ae2
+      internalID: -1650462795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_13
+      rect:
+        serializedVersion: 2
+        x: 10372
+        y: 6045
+        width: 520
+        height: 871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b4c5846d75f4446b14cdc4cd183463
+      internalID: -1301225269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_14
+      rect:
+        serializedVersion: 2
+        x: 12292
+        y: 6044
+        width: 520
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c002034950db444a9ee224f129a83cc
+      internalID: -1150349215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_15
+      rect:
+        serializedVersion: 2
+        x: 14212
+        y: 6044
+        width: 480
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b9bf16f890aef4e80ef82c66a52d92
+      internalID: 166611983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_16
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 4964
+        width: 432
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acd022e70769c64c9eead193975caf8
+      internalID: 1460544678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 4972
+        width: 464
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc3f6baca484164b8c66537a111eac9
+      internalID: -2092977899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4628
+        y: 4988
+        width: 488
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b631ea0d84bbe64ba33598d464d4faa
+      internalID: -1018817787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_19
+      rect:
+        serializedVersion: 2
+        x: 6516
+        y: 5028
+        width: 560
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704927c11bce17e4da7e0d90941f941f
+      internalID: -1791289526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_20
+      rect:
+        serializedVersion: 2
+        x: 8396
+        y: 5068
+        width: 616
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b3a91ccbb0ef94fac7d9b3d1595d98
+      internalID: 1330962726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_21
+      rect:
+        serializedVersion: 2
+        x: 10284
+        y: 5077
+        width: 656
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9d5bacba9b35d41b672bad7b1c4370
+      internalID: 2134444548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_22
+      rect:
+        serializedVersion: 2
+        x: 12188
+        y: 5092
+        width: 680
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58241f7d732e4a44c89a346374db064f
+      internalID: 2119233677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_23
+      rect:
+        serializedVersion: 2
+        x: 14108
+        y: 5108
+        width: 680
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294b8baad9eaf2a4ea534d818b27dd76
+      internalID: 1999305561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_24
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 4044
+        width: 668
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeacffa0a392c04298fa9ccc8f55d9a
+      internalID: 1770628375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 4028
+        width: 680
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a7d9d26a62c514bb3a6b922baa487a
+      internalID: 869131153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_26
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 4012
+        width: 680
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d582425ef0fd99047a0331f3cffae787
+      internalID: 1087980345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_27
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 3998
+        width: 663
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7154df8855acd234f8f53fd0dde6ed9e
+      internalID: -2079323128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_28
+      rect:
+        serializedVersion: 2
+        x: 8396
+        y: 3988
+        width: 616
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2efd4fc348d8540829c7b27f42a8a5
+      internalID: 1283653673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_29
+      rect:
+        serializedVersion: 2
+        x: 10356
+        y: 3948
+        width: 560
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4a5d57493abfc46be5e13502a6d065
+      internalID: -1532721270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_30
+      rect:
+        serializedVersion: 2
+        x: 12308
+        y: 3908
+        width: 488
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b95f26a592bf64986935efd7e3a52f
+      internalID: -849274100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_31
+      rect:
+        serializedVersion: 2
+        x: 14220
+        y: 3892
+        width: 464
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b41a940717232b4c941c5d3aac28277
+      internalID: 2037372896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_32
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2804
+        width: 432
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7378bb4afec5bb4e8002d39f76056c0
+      internalID: 8214972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 2804
+        width: 480
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcaefbfa4befda4abc4acdb78bb6044
+      internalID: -1965319299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_34
+      rect:
+        serializedVersion: 2
+        x: 4612
+        y: 2804
+        width: 520
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8e0526f8bd9b24c9ce2b598fdf9b47
+      internalID: -1325183784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_35
+      rect:
+        serializedVersion: 2
+        x: 6532
+        y: 2805
+        width: 520
+        height: 871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf9bd15e38550e42a6273712cff51a7
+      internalID: -1543179888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_36
+      rect:
+        serializedVersion: 2
+        x: 8460
+        y: 2805
+        width: 464
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f0ba38f1b814a459a4aaf99df0db8f
+      internalID: 1107420654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_37
+      rect:
+        serializedVersion: 2
+        x: 10364
+        y: 2805
+        width: 480
+        height: 823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fb370dbdb479a4291e815da7f86ef6
+      internalID: -842970493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_38
+      rect:
+        serializedVersion: 2
+        x: 12260
+        y: 2805
+        width: 536
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25234bddd395574c8f5303628603026
+      internalID: -1512369302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_39
+      rect:
+        serializedVersion: 2
+        x: 14180
+        y: 2805
+        width: 560
+        height: 775
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c2d5b67057ea04ca67e2eb16ad9a18
+      internalID: -1225632122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: justice jump sheet_40
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1725
+        width: 464
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6444c607eca874697277ac8a3e36f6
+      internalID: -1469469924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      justice jump sheet_0: 1905454610
+      justice jump sheet_1: -2036764634
+      justice jump sheet_10: 212849866
+      justice jump sheet_11: 780269843
+      justice jump sheet_12: -1650462795
+      justice jump sheet_13: -1301225269
+      justice jump sheet_14: -1150349215
+      justice jump sheet_15: 166611983
+      justice jump sheet_16: 1460544678
+      justice jump sheet_17: -2092977899
+      justice jump sheet_18: -1018817787
+      justice jump sheet_19: -1791289526
+      justice jump sheet_2: 1709569589
+      justice jump sheet_20: 1330962726
+      justice jump sheet_21: 2134444548
+      justice jump sheet_22: 2119233677
+      justice jump sheet_23: 1999305561
+      justice jump sheet_24: 1770628375
+      justice jump sheet_25: 869131153
+      justice jump sheet_26: 1087980345
+      justice jump sheet_27: -2079323128
+      justice jump sheet_28: 1283653673
+      justice jump sheet_29: -1532721270
+      justice jump sheet_3: -1829031255
+      justice jump sheet_30: -849274100
+      justice jump sheet_31: 2037372896
+      justice jump sheet_32: 8214972
+      justice jump sheet_33: -1965319299
+      justice jump sheet_34: -1325183784
+      justice jump sheet_35: -1543179888
+      justice jump sheet_36: 1107420654
+      justice jump sheet_37: -842970493
+      justice jump sheet_38: -1512369302
+      justice jump sheet_39: -1225632122
+      justice jump sheet_4: -1443168059
+      justice jump sheet_40: -1469469924
+      justice jump sheet_5: 508109956
+      justice jump sheet_6: 2038566698
+      justice jump sheet_7: 1600209413
+      justice jump sheet_8: -1613481500
+      justice jump sheet_9: 2102892095
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

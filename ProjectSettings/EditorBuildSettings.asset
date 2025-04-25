@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 3027cf94ce39d9540ba41bf4ba6eb631
+  - enabled: 1
+    path: Assets/Scenes/Main Menu - Rhods.unity
+    guid: 4411b5e45df7c84458218ee37b308d95
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 63e9424f7d0d42f4191ff6b1c6291015
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes-Rhods/Load Level Scene.unity
+    guid: dadc20ce8dbbeae49928d9a131121696
+  m_configObjects: {}

@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: 40b65bf26e9c68745a072ef1955c5cce
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red jump sheet_0
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 7132
+        width: 440
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c9c0b5c36da5742a5a4d1f3cf2e789
+      internalID: -781267690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 7132
+        width: 456
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c932d555b21c48640bf64e6ea6bc5054
+      internalID: -1845572667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_2
+      rect:
+        serializedVersion: 2
+        x: 4556
+        y: 7132
+        width: 480
+        height: 888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7367dddf3bc77a740bfaf8c047208e07
+      internalID: -272197508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_3
+      rect:
+        serializedVersion: 2
+        x: 6456
+        y: 7132
+        width: 516
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24bfebb7d463cc4e84f10bd6984a9b5
+      internalID: -1576609691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_4
+      rect:
+        serializedVersion: 2
+        x: 8364
+        y: 7132
+        width: 544
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a3b763263fd8c4ab41caceef051926
+      internalID: -2022330642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_5
+      rect:
+        serializedVersion: 2
+        x: 10268
+        y: 7132
+        width: 568
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf176ac91ca67e54d91a88bd0622b697
+      internalID: -1410212540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_6
+      rect:
+        serializedVersion: 2
+        x: 12180
+        y: 7132
+        width: 568
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2bbb939819d064aabaaf59a4b58520
+      internalID: 1495324136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_7
+      rect:
+        serializedVersion: 2
+        x: 14084
+        y: 7132
+        width: 584
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5db766d7df0504a9d0d406235e70f0
+      internalID: -2015363653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_8
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 6052
+        width: 586
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac70287bb2b18e4449008494bd6ceac4
+      internalID: -523615466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 6052
+        width: 552
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefa6049669a8324e9323485df7dae04
+      internalID: 276692907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_10
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6052
+        width: 528
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9821a5dc0e272074784d657dda1d7106
+      internalID: 1633272371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_11
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 6052
+        width: 488
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3ddba04ca87734db51fa92f99ad35f
+      internalID: -900267337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_12
+      rect:
+        serializedVersion: 2
+        x: 8380
+        y: 6052
+        width: 496
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757bfd2324cf966408a4eb9e7ddcc0d6
+      internalID: -828021306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_13
+      rect:
+        serializedVersion: 2
+        x: 10324
+        y: 6052
+        width: 480
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdb1af76e98bff43a84419dcbafe456
+      internalID: 416823833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_14
+      rect:
+        serializedVersion: 2
+        x: 12268
+        y: 6052
+        width: 448
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254f764ccb3af5d4f9e70a65074211ac
+      internalID: 715291645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_15
+      rect:
+        serializedVersion: 2
+        x: 14180
+        y: 6040
+        width: 432
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8071f7306018649b67e171485a0661
+      internalID: -329816528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_16
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 4996
+        width: 400
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488dc59ab622ad449233ffba0ff3ceb
+      internalID: 1851394115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 5044
+        width: 408
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb458d7e1d17b3949a38e84cb9dabc47
+      internalID: -1885397272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 5100
+        width: 464
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35144d361d688914796b9ebcc7aa905c
+      internalID: 955783065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_19
+      rect:
+        serializedVersion: 2
+        x: 6388
+        y: 5140
+        width: 535
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcafe388d8efed479337713b413bd19
+      internalID: -1120977126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_20
+      rect:
+        serializedVersion: 2
+        x: 8260
+        y: 5172
+        width: 584
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f60508e5716ad40bc8a1a4c2651e90
+      internalID: -1406931871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_21
+      rect:
+        serializedVersion: 2
+        x: 10156
+        y: 5204
+        width: 607
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec8370f31de0d44c886cdddfc53f6bc
+      internalID: 218245903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_22
+      rect:
+        serializedVersion: 2
+        x: 12076
+        y: 5228
+        width: 600
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19178a57ee665ab48b6c2bc72adc3c62
+      internalID: -1292174655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_23
+      rect:
+        serializedVersion: 2
+        x: 13996
+        y: 5244
+        width: 592
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dcced8ee8faa24786daebe4cef34bf
+      internalID: -1390380421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_24
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 4172
+        width: 582
+        height: 767
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acf470965f56774692f71cb7e5b3eb8
+      internalID: 1924803752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 4164
+        width: 592
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5595616bb4a4a646b576aa263ba6082
+      internalID: -414434097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_26
+      rect:
+        serializedVersion: 2
+        x: 4396
+        y: 4148
+        width: 600
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e62ca897fa0604d87f1a32c5e06220
+      internalID: -1808552178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_27
+      rect:
+        serializedVersion: 2
+        x: 6316
+        y: 4117
+        width: 607
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91567abc4f38e842a25c30169a6680a
+      internalID: 1403224950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_28
+      rect:
+        serializedVersion: 2
+        x: 8260
+        y: 4092
+        width: 584
+        height: 871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac670a24d8aebd642927f9c884d4267a
+      internalID: 2132968853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_29
+      rect:
+        serializedVersion: 2
+        x: 10228
+        y: 4060
+        width: 535
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace37dd7dae7d2d41bc9b64f40038ed1
+      internalID: -684789010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_30
+      rect:
+        serializedVersion: 2
+        x: 12204
+        y: 4020
+        width: 464
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1b8475d6d8ea2409e3baa127f4d7f1
+      internalID: -56730164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_31
+      rect:
+        serializedVersion: 2
+        x: 14164
+        y: 3960
+        width: 408
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c7a903461d6354c989831310e12909
+      internalID: 354031120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_32
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2836
+        width: 400
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc71d1bf7e3de9d4f8250bc844cb6e6a
+      internalID: -1732768869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 2804
+        width: 432
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2abe65c628855249b3de93f006784f7
+      internalID: 924470953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_34
+      rect:
+        serializedVersion: 2
+        x: 4588
+        y: 2804
+        width: 448
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6810844a7872f443bb234bfba552df9
+      internalID: -1136961647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red jump sheet_35
+      rect:
+        serializedVersion: 2
+        x: 6484
+        y: 2812
+        width: 480
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b156691bbc25ba34c82a9e3c3fb6028b
+      internalID: -121427941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      red jump sheet_0: -781267690
+      red jump sheet_1: -1845572667
+      red jump sheet_10: 1633272371
+      red jump sheet_11: -900267337
+      red jump sheet_12: -828021306
+      red jump sheet_13: 416823833
+      red jump sheet_14: 715291645
+      red jump sheet_15: -329816528
+      red jump sheet_16: 1851394115
+      red jump sheet_17: -1885397272
+      red jump sheet_18: 955783065
+      red jump sheet_19: -1120977126
+      red jump sheet_2: -272197508
+      red jump sheet_20: -1406931871
+      red jump sheet_21: 218245903
+      red jump sheet_22: -1292174655
+      red jump sheet_23: -1390380421
+      red jump sheet_24: 1924803752
+      red jump sheet_25: -414434097
+      red jump sheet_26: -1808552178
+      red jump sheet_27: 1403224950
+      red jump sheet_28: 2132968853
+      red jump sheet_29: -684789010
+      red jump sheet_3: -1576609691
+      red jump sheet_30: -56730164
+      red jump sheet_31: 354031120
+      red jump sheet_32: -1732768869
+      red jump sheet_33: 924470953
+      red jump sheet_34: -1136961647
+      red jump sheet_35: -121427941
+      red jump sheet_4: -2022330642
+      red jump sheet_5: -1410212540
+      red jump sheet_6: 1495324136
+      red jump sheet_7: -2015363653
+      red jump sheet_8: -523615466
+      red jump sheet_9: 276692907
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

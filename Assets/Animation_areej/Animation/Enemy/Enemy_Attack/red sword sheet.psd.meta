@@ -1,0 +1,954 @@
+fileFormatVersion: 2
+guid: 0751039488f93eb4c92e3aeeb76dcba2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red sword sheet_0
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 7132
+        width: 640
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30124c788846b445a8af4bc79651acc
+      internalID: -1097658944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 7132
+        width: 600
+        height: 824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaabd8c5e78721419967e420bf34d0a
+      internalID: -659752621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_2
+      rect:
+        serializedVersion: 2
+        x: 4572
+        y: 7132
+        width: 560
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31646327d43f9a409b4d79c14eaff70
+      internalID: 302141186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_3
+      rect:
+        serializedVersion: 2
+        x: 6476
+        y: 7132
+        width: 542
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3876b615c8dbcfc4cac8bbebac62cf74
+      internalID: 479386093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_4
+      rect:
+        serializedVersion: 2
+        x: 8380
+        y: 7124
+        width: 519
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6678c2f98e82e42b2240a6eca64edb
+      internalID: 110782293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_5
+      rect:
+        serializedVersion: 2
+        x: 10292
+        y: 7108
+        width: 552
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69057dbeada0734f922172e6648c17d
+      internalID: -808804750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_6
+      rect:
+        serializedVersion: 2
+        x: 12204
+        y: 7125
+        width: 504
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08239c56b8227334e91ddf50509deb93
+      internalID: -845431848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_7
+      rect:
+        serializedVersion: 2
+        x: 14116
+        y: 7132
+        width: 464
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d910747405cf140a52b3576e8c8f55
+      internalID: 611530671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_8
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 6052
+        width: 360
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2851d3fab37da5e4990bcb99f821d5a9
+      internalID: 86648875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 6052
+        width: 432
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5146a7914f662d74aa314afb7c8e35e0
+      internalID: 89885384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_10
+      rect:
+        serializedVersion: 2
+        x: 4372
+        y: 6044
+        width: 600
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb2b1add07fd644783e25b784213db5
+      internalID: -182202187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_11
+      rect:
+        serializedVersion: 2
+        x: 6212
+        y: 6052
+        width: 736
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3659b12e997bf4ea059993238e4e97
+      internalID: -301435797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_12
+      rect:
+        serializedVersion: 2
+        x: 8108
+        y: 6052
+        width: 832
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833dc7e99ad4723429e6a5d3352f300f
+      internalID: 738553392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_13
+      rect:
+        serializedVersion: 2
+        x: 10092
+        y: 6052
+        width: 800
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b11a81333b8ea42a5a093b29a750a1
+      internalID: -1123448703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_14
+      rect:
+        serializedVersion: 2
+        x: 11980
+        y: 6052
+        width: 800
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679063fde32297b488c12bdec6d5ec77
+      internalID: 597710020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_15
+      rect:
+        serializedVersion: 2
+        x: 13892
+        y: 6052
+        width: 784
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0741d516250e891478b38fb349daf290
+      internalID: -736696883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_16
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 4972
+        width: 840
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadca9a7f3090494da1ab08679827777
+      internalID: -1023460781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 4972
+        width: 856
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a049cebc444567f449eaa24329dca492
+      internalID: -1457716416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4268
+        y: 4972
+        width: 856
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d875aa9243521449df3645b009e931
+      internalID: -1159974736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_19
+      rect:
+        serializedVersion: 2
+        x: 6262
+        y: 4972
+        width: 782
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd0531625aece44bb6c0ed1f824f974
+      internalID: -803204420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_20
+      rect:
+        serializedVersion: 2
+        x: 8260
+        y: 4972
+        width: 704
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba719c0a93a83c4a815edb5e68df966
+      internalID: -107021911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_21
+      rect:
+        serializedVersion: 2
+        x: 10220
+        y: 4972
+        width: 664
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d31ec589c6f08a45a0c8e6211b98628
+      internalID: -2091169668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_22
+      rect:
+        serializedVersion: 2
+        x: 12180
+        y: 4972
+        width: 630
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4650cef776d97174b88a5a4594fc6a95
+      internalID: -624586907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_23
+      rect:
+        serializedVersion: 2
+        x: 14100
+        y: 4972
+        width: 632
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b2e832067f9604992b429c5c78bd85
+      internalID: 1012249128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_24
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3892
+        width: 640
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b03724e12cf7704b9d82324208f844a
+      internalID: -1771452211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 3892
+        width: 648
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c469bb135e38fea498597b8dbbc7144f
+      internalID: -1127712185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_26
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 3892
+        width: 680
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3eece83e4a9d64e99337c901cb0fde
+      internalID: 948356995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_27
+      rect:
+        serializedVersion: 2
+        x: 6372
+        y: 3892
+        width: 696
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205fd7bc3f058f547a5ef0fba000accc
+      internalID: 6811456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_28
+      rect:
+        serializedVersion: 2
+        x: 8324
+        y: 3892
+        width: 704
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24c035888a0fc949983f5e75a77a574
+      internalID: -1295015333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_29
+      rect:
+        serializedVersion: 2
+        x: 10276
+        y: 3892
+        width: 712
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abbd9923db7dd444906f1713feca9e7
+      internalID: 1112639422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_30
+      rect:
+        serializedVersion: 2
+        x: 12180
+        y: 3892
+        width: 744
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6e57a55d79a2d448db4ff6b5364a61
+      internalID: 1954803372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_31
+      rect:
+        serializedVersion: 2
+        x: 14092
+        y: 3892
+        width: 768
+        height: 824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d533fbb4b59fae43a81e085e15fc060
+      internalID: 2141543850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_32
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2812
+        width: 792
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01dc5e40410a9144b89a18f89266bf2
+      internalID: -602360621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2812
+        width: 800
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6738534ccd7ccb4dbe94334548eb6a5
+      internalID: -857809591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_34
+      rect:
+        serializedVersion: 2
+        x: 4468
+        y: 2812
+        width: 816
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d89e92a9bd07754b80be5e1ffebdec4
+      internalID: 761294193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_35
+      rect:
+        serializedVersion: 2
+        x: 6388
+        y: 2812
+        width: 816
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026f24d319858674ba5ddb97eb59590e
+      internalID: 1369127392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red sword sheet_36
+      rect:
+        serializedVersion: 2
+        x: 8308
+        y: 2812
+        width: 808
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7654aec165f3bc442b7c3646914aa8b9
+      internalID: 1402501222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      red sword sheet_0: -1097658944
+      red sword sheet_1: -659752621
+      red sword sheet_10: -182202187
+      red sword sheet_11: -301435797
+      red sword sheet_12: 738553392
+      red sword sheet_13: -1123448703
+      red sword sheet_14: 597710020
+      red sword sheet_15: -736696883
+      red sword sheet_16: -1023460781
+      red sword sheet_17: -1457716416
+      red sword sheet_18: -1159974736
+      red sword sheet_19: -803204420
+      red sword sheet_2: 302141186
+      red sword sheet_20: -107021911
+      red sword sheet_21: -2091169668
+      red sword sheet_22: -624586907
+      red sword sheet_23: 1012249128
+      red sword sheet_24: -1771452211
+      red sword sheet_25: -1127712185
+      red sword sheet_26: 948356995
+      red sword sheet_27: 6811456
+      red sword sheet_28: -1295015333
+      red sword sheet_29: 1112639422
+      red sword sheet_3: 479386093
+      red sword sheet_30: 1954803372
+      red sword sheet_31: 2141543850
+      red sword sheet_32: -602360621
+      red sword sheet_33: -857809591
+      red sword sheet_34: 761294193
+      red sword sheet_35: 1369127392
+      red sword sheet_36: 1402501222
+      red sword sheet_4: 110782293
+      red sword sheet_5: -808804750
+      red sword sheet_6: -845431848
+      red sword sheet_7: 611530671
+      red sword sheet_8: 86648875
+      red sword sheet_9: 89885384
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
